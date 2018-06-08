@@ -4,19 +4,20 @@
 To get started, we'll need to install Phyton:  (pt/br -Para começar precisamos instalar Python)
 
 
-[installation documenation](https://www.python.org/downloads/) on the Python website.
+[Installation documenation](https://www.python.org/downloads/) on the Python website 
 
-Behave. The easiest means of doing so is with Pip: (Behave - a maneira mais facil é executar o comando)
+### Behave. 
+The easiest means of doing so is with Pip: (Behave - a maneira mais facil é executar o comando)
 
 ```
 pip install Behave
 ```
 
-[installation documenation](http://pythonhosted.org/behave/install.html) on the Behave website.
+[Installation documenation](http://pythonhosted.org/behave/install.html) on the Behave website.
 
-We also need to install Chromedriver (também precisamos instalar Chromedriver)
+### We also need to install Chromedriver (também precisamos instalar Chromedriver)
 
-[installation documenation](http://chromedriver.chromium.org/downloads) on the Chromedriver website.
+[Installation documenation](http://chromedriver.chromium.org/downloads) on the Chromedriver website.
 
 
 Lastly, we'll need to install Selenium: (e por ultimo precisamos instalar o selenium).
